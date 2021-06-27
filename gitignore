@@ -182,5 +182,5 @@ temp/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,osx,node,visualstudiocode
 
-/connection
+/connections
 connection.php
